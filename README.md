@@ -129,6 +129,5 @@ Final Year Project — [BZU]
 
 ---
 
-## 📄 License
 
 This project is developed for academic purposes only.
