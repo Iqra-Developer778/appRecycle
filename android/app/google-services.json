@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990373375059",
+    "project_id": "apprecycle-61c0a",
+    "storage_bucket": "apprecycle-61c0a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990373375059:android:670ad7fa70df7817aaeaa6",
+        "android_client_info": {
+          "package_name": "com.example.apprecycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990373375059-8tl44pk3rf6vfih365vu6v1n6i3l5u17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6l-P9CglgEluH7WMadwNyScAbAKj2NBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990373375059-8tl44pk3rf6vfih365vu6v1n6i3l5u17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
