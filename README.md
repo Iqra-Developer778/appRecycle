@@ -103,7 +103,7 @@ Admin credentials are **not included** in this repository for security reasons.
 
 | Get Started | Sign In | Home |
 |:-----------:|:-------:|:----:|
-| <img src="Get Started.jpeg" width="220"/> | <img src="Sign_in_2.jpeg" width="220"/> | <img src="Home 3.jpeg" width="220"/> |
+| <img src="Get Started.jpeg" width="220"/> | <img src="Sign in_2.jpeg" width="220"/> | <img src="Home 3.jpeg" width="220"/> |
 
 | Upload | Points | History |
 |:------:|:------:|:-------:|
