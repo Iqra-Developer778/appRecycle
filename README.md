@@ -98,7 +98,27 @@ Admin credentials are **not included** in this repository for security reasons.
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your app here)*
+## 📸 Screenshots
+
+<div align="center">
+
+| Get Started | Sign In | Home |
+|:-----------:|:-------:|:----:|
+| <img src="screenshots/Get Started.jpeg" width="220"/> | <img src="screenshots/Sign_in_2.jpeg" width="220"/> | <img src="screenshots/Home 3.jpeg" width="220"/> |
+
+| Upload | Points | History |
+|:------:|:------:|:-------:|
+| <img src="screenshots/Upload 4.jpeg" width="220"/> | <img src="screenshots/Points 5.jpeg" width="220"/> | <img src="screenshots/History 8.jpeg" width="220"/> |
+
+| Jazzcash | AI Tips | Admin View |
+|:--------:|:-------:|:----------:|
+| <img src="screenshots/Jazzcash 6.jpeg" width="220"/> | <img src="screenshots/AI 7.jpeg" width="220"/> | <img src="screenshots/Admin_view 10.jpeg" width="220"/> |
+
+| Admin Panel | Admin Approval | Redeem Approval |
+|:-----------:|:--------------:|:---------------:|
+| <img src="screenshots/Admin 9.jpeg" width="220"/> | <img src="screenshots/Admin_Approval 11.jpeg" width="220"/> | <img src="screenshots/reedem_approval 12.jpeg" width="220"/> |
+
+</div>
 
 ---
 
